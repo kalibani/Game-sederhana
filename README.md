@@ -1,1 +1,1 @@
-Kumpulan koding looping dan branching sederhana
+Repository ini berisi file file koding sederhana javascript saya.
