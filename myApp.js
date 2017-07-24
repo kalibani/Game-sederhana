@@ -54,7 +54,7 @@ SIMPAN objek baru dengan nama `pemilih8` yang merujuk pada main objek `Pemilih`,
 SIMPAN objek baru dengan nama `pemilih9` yang merujuk pada main objek `Pemilih`, INPUT nilai pada parameter `idPemilih dan `namaPemilih`
 SIMPAN objek baru dengan nama `pemilih10` yang merujuk pada main objek `Pemilih`, INPUT nilai pada parameter `idPemilih dan `namaPemilih`
 
-//Menampilkan objek pemilih serta daftar calon
+//Memanggil method untuk menampilkan objek pemilih serta daftar calon
 PANGGIL method `daftarCalon` dari objek `pemilih1`
 PANGGIL method `daftarCalon` dari objek `pemilih2`
 PANGGIL method `daftarCalon` dari objek `pemilih3`
